@@ -1,0 +1,1 @@
+Repository to reproduce an issue discovered in MAUI where an ArcSegment was periodically drawn offset from expectations.
